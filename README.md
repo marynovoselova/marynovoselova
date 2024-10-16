@@ -6,10 +6,14 @@
   <img href="https://git.io/typing-svg" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=FRONTEND+DEVELOPER+(TS|REACT|RTK)" >
 </div>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUxanZkemt1ODhkd2FqejdrbjZieHRvNDJlYXJtMDlrdDNucWNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right" width="300"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnUxanZkemt1ODhkd2FqejdrbjZieHRvNDJlYXJtMDlrdDNucWNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg4q8ka6zQuQ2qgKwe/giphy.gif" align="right" width="350"/>
 
 <p align="left">
       My development journey began in 2019. Since then, I've been continuously learning, working on a variety of projects, and exploring new technological challenges. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="center" width="30"></br>
+      </br>
+      You can check out my latest pet project - <strong>Todoshka</strong>, here:</br>
+- Code <a href="https://github.com/marynovoselova/Todoshka" alt="Telegram">👩🏼‍💻</a></br>
+- Website <a href="https://marynovoselova.github.io/Todoshka/" alt="Telegram">🌏</a></br>
       </br>
       In my free time, I:</br>
       - learn something new 🧠</br>
